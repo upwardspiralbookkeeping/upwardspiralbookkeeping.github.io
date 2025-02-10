@@ -19,7 +19,7 @@ h2 {
 
 .image-container img {
   display: block;
-  width: 75%;
+  width: 100%;
   height: auto;
 }
 
@@ -27,10 +27,10 @@ h2 {
   position: absolute;
   top: 10%; 
   left: 75%; 
-  transform: translate(-90%, -25%); 
+  transform: translate(-50%, -50%); 
   
   color: #fff; 
   padding: 10px 20px; 
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
