@@ -11,7 +11,7 @@ h2 {
 }
 .image-container {
   position: relative;
-  height: 100%;
+  width: 100%;
   display: inline-block;
 }
 
@@ -25,7 +25,8 @@ h2 {
   position: absolute;
   top: 50%; 
   left: 50%; 
-  transform: translate(-50%, -50%);  
+  transform: translate(-50%, -50%); 
+    background-color:#1c3968;
   color: #fff; 
   padding: 10px 20px; 
   font-size: 20px; 
