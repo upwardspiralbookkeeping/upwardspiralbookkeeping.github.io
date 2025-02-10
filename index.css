@@ -25,8 +25,7 @@ h2 {
   position: absolute;
   top: 50%; 
   left: 50%; 
-  transform: translate(-50%, -50%); 
-  background-color: #000000; 
+  transform: translate(-50%, -50%);  
   color: #fff; 
   padding: 10px 20px; 
   font-size: 20px; 
