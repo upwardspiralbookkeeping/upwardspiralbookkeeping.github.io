@@ -1,5 +1,14 @@
-body {
+.image-container {
     background-color: #1c3968;
+}
+.tag-line {
+  background-color: #1c3968;
+}
+.button {
+  background-color: #1c3968;
+}
+.main-section {
+  background-color: #ffffff;
 }
 
 h1 {
