@@ -3,6 +3,7 @@
 }
 .tag-line {
   background-color: #4B6BAF;
+  
 }
 .button {
   background-color: #8DADD9;
@@ -18,7 +19,7 @@ h1 {
 
 h2 {
     color: white;
-    font-size: 1.875em;
+    font-size: 10em;
     display: block;
     font-size: 1.5em;
     margin-block-start: 0px;
