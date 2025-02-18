@@ -3,7 +3,20 @@ body{
 }
 
 .image-container {
-    background-color: #1c3968;
+  color: white;
+  font-size: 20em;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+  text-align: center;  
+  background-color: #1c3968;
 }
 .tag-line {
   background-color: #4B6BAF;
