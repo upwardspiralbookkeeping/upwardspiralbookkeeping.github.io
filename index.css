@@ -48,6 +48,8 @@ body{
     margin-inline-end: 0px;
     padding-top: 30px;
     padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-weight: normal;
     unicode-bidi: isolate;
     text-align: left;
